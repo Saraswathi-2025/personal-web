@@ -69,7 +69,7 @@ function Portfolio() {
         <p style={styles.subtitle}>Full-Stack Developer (Learning)</p>
 
         <a
-          href="/my-portfolio/Saraswathi_ATS.pdf"
+          href="Saraswathi_ATS.pdf"
           download
           style={{
             ...styles.resumeButton,
