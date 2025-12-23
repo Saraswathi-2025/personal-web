@@ -15,6 +15,6 @@ This is my first React-based personal website.
 - GitHub Pages
 
 ## Live Demo
-https://saraswathi-2025.github.io/personal-web
+https://saraswathi-2025.github.io/personal-web/
 
 > Note: This project was built while learning React.
